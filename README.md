@@ -20,3 +20,12 @@ Naciśnięta rolka myszki reguluje pozycje kamery góra/dól lewo/prawo w zależ
 Naciśnięty prawy przycisk reguluje rotacje kamery gora/dol w zależności od położenia myszki.
 Po puszczeniu ww. klawiszy akcja jest zatrzymana.
 
+Wersja Unity 2019.2.6f1
+Język: C#
+
+Skrypty:
+CameraMotionManager - poruszanie kamerą 
+Exit - zamykanie aplikacji
+ImportManager - importowanie modeli z folderu input w resources
+ModelMotionManager - poruszanie modelem który aktualnie znajduje się na scenie
+ScreenShoot - robienie zrzutu ekratu do folderu Output w StreamingAssets
