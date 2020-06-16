@@ -70,7 +70,7 @@ public class ImportManager : MonoBehaviour
 
         return false;
     }
-    bool choseeModel(int number)
+    bool chooseModel(int number)
     {
         if (actModelNumber < actNumberOfModels - 1 && actModelNumber >= 0)
         {
